@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://valeyaraco55r8.github.io/2026-fifa-io/sitemap.xml
